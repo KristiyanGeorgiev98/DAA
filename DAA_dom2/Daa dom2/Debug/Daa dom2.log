@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\it\source\repos\daa dom2\daa dom2\source.cpp(19): warning C4101: 'finalni': unreferenced local variable
+c:\users\it\source\repos\daa dom2\daa dom2\source.cpp(17): warning C4101: 'secondNum': unreferenced local variable
+c:\users\it\source\repos\daa dom2\daa dom2\source.cpp(16): warning C4101: 'firstNum': unreferenced local variable
+  Daa dom2.vcxproj -> C:\Users\IT\source\repos\Daa dom2\Debug\Daa dom2.exe
